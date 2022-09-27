@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/mesto-react/static/css/main.47ecece2.css",
-    "main.js": "/mesto-react/static/js/main.38a0f3bb.js",
-    "static/js/787.5530211c.chunk.js": "/mesto-react/static/js/787.5530211c.chunk.js",
-    "static/media/Inter-Medium.woff": "/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/mesto-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/mesto-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/mesto-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/mesto-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/logo.svg": "/mesto-react/static/media/logo.1f1e95914acec5e332361dc22eb8f9b2.svg",
-    "static/media/gallery-like_disabled.svg": "/mesto-react/static/media/gallery-like_disabled.87ed371465c7a6a1cd01.svg",
-    "index.html": "/mesto-react/index.html",
-    "static/media/gallery-trash.svg": "/mesto-react/static/media/gallery-trash.cbc09a894bdd4c956365.svg",
-    "static/media/gallery-like_active.svg": "/mesto-react/static/media/gallery-like_active.e787eeb70bb65b7b453a.svg",
-    "static/media/profile-pen.svg": "/mesto-react/static/media/profile-pen.ff0fcb318a3974db48d1.svg",
-    "static/media/profile-cross.svg": "/mesto-react/static/media/profile-cross.d86bb2edc2f6eadb96b7.svg",
-    "static/media/popup-close-button.svg": "/mesto-react/static/media/popup-close-button.b793e07c3f4c19e26c11.svg",
-    "main.47ecece2.css.map": "/mesto-react/static/css/main.47ecece2.css.map",
-    "main.38a0f3bb.js.map": "/mesto-react/static/js/main.38a0f3bb.js.map",
-    "787.5530211c.chunk.js.map": "/mesto-react/static/js/787.5530211c.chunk.js.map"
+    "main.css": "/iammacheta/mesto-react/static/css/main.bd3877ef.css",
+    "main.js": "/iammacheta/mesto-react/static/js/main.be485b21.js",
+    "static/js/787.5530211c.chunk.js": "/iammacheta/mesto-react/static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Medium.woff": "/iammacheta/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/iammacheta/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/iammacheta/mesto-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/iammacheta/mesto-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/iammacheta/mesto-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/iammacheta/mesto-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/iammacheta/mesto-react/static/media/logo.1f1e95914acec5e332361dc22eb8f9b2.svg",
+    "static/media/gallery-like_disabled.svg": "/iammacheta/mesto-react/static/media/gallery-like_disabled.87ed371465c7a6a1cd01.svg",
+    "index.html": "/iammacheta/mesto-react/index.html",
+    "static/media/gallery-trash.svg": "/iammacheta/mesto-react/static/media/gallery-trash.cbc09a894bdd4c956365.svg",
+    "static/media/gallery-like_active.svg": "/iammacheta/mesto-react/static/media/gallery-like_active.e787eeb70bb65b7b453a.svg",
+    "static/media/profile-pen.svg": "/iammacheta/mesto-react/static/media/profile-pen.ff0fcb318a3974db48d1.svg",
+    "static/media/profile-cross.svg": "/iammacheta/mesto-react/static/media/profile-cross.d86bb2edc2f6eadb96b7.svg",
+    "static/media/popup-close-button.svg": "/iammacheta/mesto-react/static/media/popup-close-button.b793e07c3f4c19e26c11.svg",
+    "main.bd3877ef.css.map": "/iammacheta/mesto-react/static/css/main.bd3877ef.css.map",
+    "main.be485b21.js.map": "/iammacheta/mesto-react/static/js/main.be485b21.js.map",
+    "787.5530211c.chunk.js.map": "/iammacheta/mesto-react/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ecece2.css",
-    "static/js/main.38a0f3bb.js"
+    "static/css/main.bd3877ef.css",
+    "static/js/main.be485b21.js"
   ]
 }
